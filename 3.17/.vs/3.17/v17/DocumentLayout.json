@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\3.17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0B6B8F-93DA-4484-A924-F0F921910BD0}|3.17\\3.17.vcxproj|C:\\Users\\User\\source\\repos\\3.17\\3.17\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF0B6B8F-93DA-4484-A924-F0F921910BD0}|3.17\\3.17.vcxproj|solutionrelative:3.17\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\3.17\\3.17\\main.c",
+              "RelativeDocumentMoniker": "3.17\\main.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\3.17\\3.17\\main.c",
+              "RelativeToolTip": "3.17\\main.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-03T16:42:20.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
